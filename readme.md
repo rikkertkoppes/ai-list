@@ -11,18 +11,24 @@ Other tools
 ------
 
 - [Tesseract](https://code.google.com/p/tesseract-ocr/) The standard in Optical Character Recognition ([wikipedia](http://en.wikipedia.org/wiki/Tesseract_%28software%29))
+- [wolfram ImageIdentify](https://www.imageidentify.com) Image identification, not an api
 
-General info
+General info, articles
 -------
 
 - https://en.wikipedia.org/wiki/Portal:Machine_learning
 - https://en.wikipedia.org/wiki/Portal:Artificial_intelligence
+- [Stephen wolfram about AI in wolfram language](http://blog.stephenwolfram.com/2015/05/wolfram-language-artificial-intelligence-the-image-identification-project/)
 
 Javascript Machine Learning
 ------------
 
-### Nerual nets
+### Neural nets
 
 - https://github.com/harthur/brain
 - https://github.com/cazala/synaptic
 - https://github.com/rlidwka/node-fann
+
+###Decision trees
+
+- https://github.com/lagodiuk/decision-tree-js
