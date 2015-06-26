@@ -16,6 +16,7 @@ General info
 -------
 
 - https://en.wikipedia.org/wiki/Portal:Machine_learning
+- https://en.wikipedia.org/wiki/Portal:Artificial_intelligence
 
 Javascript Machine Learning
 ------------
