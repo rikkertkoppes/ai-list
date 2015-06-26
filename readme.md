@@ -12,6 +12,11 @@ Other tools
 
 - [Tesseract](https://code.google.com/p/tesseract-ocr/) The standard in Optical Character Recognition ([wikipedia](http://en.wikipedia.org/wiki/Tesseract_%28software%29))
 
+General info
+-------
+
+- https://en.wikipedia.org/wiki/Portal:Machine_learning
+
 Javascript Machine Learning
 ------------
 
