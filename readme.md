@@ -14,6 +14,7 @@ Other tools
 - [wolfram ImageIdentify](https://www.imageidentify.com) Image identification, not an api
 
 General info, concepts
+------
 
 - https://en.wikipedia.org/wiki/Kalman_filter Kalman filtering: error reduction using a physical model
 
