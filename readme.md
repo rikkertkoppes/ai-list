@@ -13,6 +13,10 @@ Other tools
 - [Tesseract](https://code.google.com/p/tesseract-ocr/) The standard in Optical Character Recognition ([wikipedia](http://en.wikipedia.org/wiki/Tesseract_%28software%29))
 - [wolfram ImageIdentify](https://www.imageidentify.com) Image identification, not an api
 
+General info, concepts
+
+- https://en.wikipedia.org/wiki/Kalman_filter Kalman filtering: error reduction using a physical model
+
 General info, articles
 -------
 
