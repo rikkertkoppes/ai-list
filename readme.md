@@ -29,6 +29,10 @@ Javascript Machine Learning
 - https://github.com/cazala/synaptic
 - https://github.com/rlidwka/node-fann
 
+### Neural nets training by reinforcement learning
+
+- http://stackoverflow.com/questions/10722064/training-a-neural-network-with-reinforcement-learning
+
 ###Decision trees
 
 - https://github.com/lagodiuk/decision-tree-js
