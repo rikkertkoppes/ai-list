@@ -21,6 +21,10 @@ General info
 ###Concepts
 
 - https://en.wikipedia.org/wiki/Kalman_filter Kalman filtering: error reduction using a physical model
+- [Perceptrons](https://en.wikipedia.org/wiki/Perceptron)
+- [Multilayer perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+- [LTMS](https://en.wikipedia.org/wiki/Long_short_term_memory) Long short term memory
+  - https://www.youtube.com/watch?v=izGl1YSH_JA
 
 ###articles
 
