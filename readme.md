@@ -15,18 +15,20 @@ Other tools
 - [Tesseract](https://code.google.com/p/tesseract-ocr/) The standard in Optical Character Recognition ([wikipedia](http://en.wikipedia.org/wiki/Tesseract_%28software%29))
 - [wolfram ImageIdentify](https://www.imageidentify.com) Image identification, not an api
 
-General info, concepts
+General info
 ------
+
+###Concepts
 
 - https://en.wikipedia.org/wiki/Kalman_filter Kalman filtering: error reduction using a physical model
 
-General info, articles
--------
+###articles
 
 - https://en.wikipedia.org/wiki/Portal:Machine_learning
 - https://en.wikipedia.org/wiki/Portal:Artificial_intelligence
 - [Stephen wolfram about AI in wolfram language](http://blog.stephenwolfram.com/2015/05/wolfram-language-artificial-intelligence-the-image-identification-project/)
 
+###software
 
 - [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) List of Machine learning related software and libraries
 
