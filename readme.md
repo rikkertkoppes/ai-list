@@ -27,6 +27,9 @@ General info, articles
 - https://en.wikipedia.org/wiki/Portal:Artificial_intelligence
 - [Stephen wolfram about AI in wolfram language](http://blog.stephenwolfram.com/2015/05/wolfram-language-artificial-intelligence-the-image-identification-project/)
 
+
+- [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) List of Machine learning related software and libraries
+
 Javascript Machine Learning
 ------------
 
