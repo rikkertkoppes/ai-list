@@ -6,6 +6,7 @@ Online API tools
 
 - [wit.ai](https://wit.ai/) Natural language processing
 - [api.ai](http://api.ai/) Natural language processing
+- [watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/) Various apis associated with IBM's watson
 
 Other tools
 ------
