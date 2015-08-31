@@ -18,6 +18,8 @@ Other tools
 General info
 ------
 
+- [AI on the web, an extensive list](http://aima.cs.berkeley.edu/ai.html)
+
 ###Concepts
 
 - https://en.wikipedia.org/wiki/Kalman_filter Kalman filtering: error reduction using a physical model
@@ -52,3 +54,9 @@ Javascript Machine Learning
 ###Decision trees
 
 - https://github.com/lagodiuk/decision-tree-js
+
+Books
+-----
+
+- [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
+- [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig](http://norvig.com/paip.html)
