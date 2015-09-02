@@ -8,6 +8,7 @@ Online API tools
 - [api.ai](http://api.ai/) Natural language processing
 - [watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/) Various apis associated with IBM's watson
 - [wolfram alpha](http://products.wolframalpha.com/api/documentation.html) Api to Wolfram Alpha
+- [ersatz - neural network as a service, free for small networks](http://www.ersatzlabs.com/)
 
 Other tools
 ------
