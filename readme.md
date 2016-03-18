@@ -39,6 +39,14 @@ General info
 
 - [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) List of Machine learning related software and libraries
 
+###Online courses
+
+- [MIT 6.034](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by P.H. Winston
+- [Oxford deep learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) by Nando de Freitas
+- [Oxford machine learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) by Nando de Freitas
+- [Udacity AI Intro](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [Udacity Tensorflow / deep learning](https://www.udacity.com/course/deep-learning--ud730)
+
 Javascript Machine Learning
 ------------
 
